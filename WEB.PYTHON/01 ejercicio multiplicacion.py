@@ -1,0 +1,6 @@
+print ("Programa que permite Multiplicar 3 numeros. ")
+A= int (input("Digite el primer valor: "))  
+B = int (input("Digite el segundo valor: "))
+C = int (input("Digite el tercer valor: "))
+multiplicacion = float (A*B*C)
+print ("El resultado de los 3 valores numeros Ingresados es:; ", multiplicacion)

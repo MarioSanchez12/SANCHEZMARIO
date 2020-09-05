@@ -1,0 +1,8 @@
+print("Programa que permita calcular el promedio de 5 numeros.")
+A = float (input("Digite el primer numero a realizar promedio: "))
+B = float (input("Digite el segundo numero a realizar promedio: "))
+C = float (input("Digite el tercer numero a realizar promedio: "))
+D = float (input("Digite el cuarto numero a realizar promedio: "))
+E = float (input("Digite el quinto numero a realizar promedio: "))
+Promedio = float((A+B+C+D+E)/5)
+print ("El resultado del promedio de los 5 numeros es; ", Promedio)
